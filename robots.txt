@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resilientcollaborative.com.np/sitemap.xml
